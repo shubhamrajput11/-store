@@ -8,7 +8,8 @@ after learrning basics of flask and using different inbuilt function I try to us
  I have also intsalled platformio-ide-terminal script in a Atom to use terminal inside atom only 
    (if you are having problem in using Atom then try sublime text for good indentation and simplicity)
  
- ##Description
+## Description
+ 
  this program is written using flask,python language
  Some end points-
                1.('/')
